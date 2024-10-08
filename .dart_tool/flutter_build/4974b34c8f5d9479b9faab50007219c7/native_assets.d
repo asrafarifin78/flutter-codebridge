@@ -1,0 +1,1 @@
+ C:\\Users\\TRAINING\\Desktop\\trainme\\com_epi_test_flutter\\.dart_tool\\flutter_build\\4974b34c8f5d9479b9faab50007219c7\\native_assets.yaml: 
